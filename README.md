@@ -21,12 +21,3 @@ Este repositorio contiene el código fuente del sistema CRM para la gestión cl�
 3. Importar la base de datos usando `estructura.sql`
 4. Crear el archivo `.env` (no incluido) para las variables sensibles
 5. Acceder mediante `index.php`
-
-## Seguridad
-
-- No se incluyen datos reales ni claves privadas
-- El archivo `.env` nunca debe subirse al repositorio
-
-## Licencia
-
-[MIT](LICENSE) o la que consideres más adecuada
